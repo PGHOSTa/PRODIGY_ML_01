@@ -1,5 +1,4 @@
 # US-house-price-prediction
-# House Price Prediction
 
 This repository contains a Python implementation of a house price prediction model based on the **Kaggle House Prices: Advanced Regression Techniques** dataset. The model uses features such as living area, number of bedrooms, and other property characteristics to predict house prices.
 
