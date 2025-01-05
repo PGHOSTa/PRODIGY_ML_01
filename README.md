@@ -46,6 +46,3 @@ The project requires the following Python libraries:
 - `pandas`
 - `scikit-learn`
 
-Install the dependencies using:
-```bash
-pip install -r requirements.txt
