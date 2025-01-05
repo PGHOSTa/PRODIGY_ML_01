@@ -47,6 +47,7 @@ The project requires the following Python libraries:
 - `scikit-learn`
   
 The outputs and validated outputs are as follows:
+
 ![lr-1](https://github.com/user-attachments/assets/b30691cd-b3d2-4821-9ffb-d70231693835)
 ![lr-2](https://github.com/user-attachments/assets/3b58c103-d899-4460-bb54-0707a3319f6b)
 
